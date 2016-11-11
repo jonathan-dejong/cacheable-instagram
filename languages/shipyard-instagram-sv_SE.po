@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipyard Instagram\n"
+"POT-Creation-Date: 2015-08-14 13:39+0200\n"
+"PO-Revision-Date: 2015-08-14 13:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: shipyard-instagram.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-shipyard-instagram-import-images.php:103
+#, php-format
+msgid "Image by %s"
+msgstr "Bild av %s"
+
+#: includes/class-shipyard-instagram-options-page.php:72
+#, php-format
+msgid "The Instagram plugin %sneeds to be configured%s!"
+msgstr "Instagram pluginen %sbehöver konfigureras%s!"
+
+#: includes/class-shipyard-instagram-options-page.php:89
+#: includes/class-shipyard-instagram-post-type.php:72
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/class-shipyard-instagram-options-page.php:94
+msgid "Configure Settings"
+msgstr "Konfigurera Inställningar"
+
+#: includes/class-shipyard-instagram-options-page.php:95
+#: includes/class-shipyard-instagram-post-type.php:129
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-shipyard-instagram-options-page.php:96
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: includes/class-shipyard-instagram-options-page.php:97
+msgid "Client key"
+msgstr "Klient nyckel"
+
+#: includes/class-shipyard-instagram-options-page.php:118
+msgid "Feed updated"
+msgstr "Flödet uppdaterades"
+
+#. Plugin Name of the plugin/theme
+#: includes/class-shipyard-instagram-options-page.php:125
+msgid "Shipyard Instagram"
+msgstr "Shipyard Instagram"
+
+#: includes/class-shipyard-instagram-options-page.php:132
+msgid "Fetch new images"
+msgstr "Hämta nya bilder"
+
+#: includes/class-shipyard-instagram-options-page.php:133
+msgid ""
+"Click the button below to check for new images in the feed. NB. The feed "
+"will automatically update every 15 minutes."
+msgstr ""
+"Klicka på knappen nedan för att kolla efter nya bilder i flödet. Flödet "
+"uppdateras automatiskt varje 15 minuter."
+
+#: includes/class-shipyard-instagram-options-page.php:136
+msgid "Fetch feed"
+msgstr "Hämta flödet"
+
+#: includes/class-shipyard-instagram-post-type.php:60
+#: includes/class-shipyard-instagram-post-type.php:62
+msgid "Instagram images"
+msgstr "Instagrambilder"
+
+#: includes/class-shipyard-instagram-post-type.php:61
+msgid "Instagram image"
+msgstr "Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:63
+msgid "New instagram image"
+msgstr "Ny Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:64
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: includes/class-shipyard-instagram-post-type.php:65
+msgid "Add New instagram image"
+msgstr "Lägg till ny Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:66
+msgid "Edit instagram image"
+msgstr "Redigera Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:67
+msgid "View instagram image"
+msgstr "Visa Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:68
+msgid "Search instagram images"
+msgstr "Sök bland Instagrambilder"
+
+#: includes/class-shipyard-instagram-post-type.php:69
+msgid "No instagram images found"
+msgstr "Inga Instagrambilder hittades"
+
+#: includes/class-shipyard-instagram-post-type.php:70
+msgid "No instagram images found in trash"
+msgstr "Inga Instagrambilder hittades i soptunnan"
+
+#: includes/class-shipyard-instagram-post-type.php:71
+msgid "Parent instagram image"
+msgstr ""
+
+#: includes/class-shipyard-instagram-post-type.php:130
+msgid "Image"
+msgstr "Bild"
+
+#: includes/class-shipyard-instagram-post-type.php:131
+msgid "Hidden"
+msgstr "Gömd"
+
+#: includes/class-shipyard-instagram-post-type.php:132
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-shipyard-instagram-post-type.php:152
+msgid "No"
+msgstr "Nej"
+
+#: includes/class-shipyard-instagram-post-type.php:154
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-shipyard-instagram-post-type.php:167
+msgid "Instagram Image"
+msgstr "Instagrambild"
+
+#: includes/class-shipyard-instagram-post-type.php:180
+msgid "Hide Image"
+msgstr "Göm bilden"
+
+#: includes/class-shipyard-instagram-post-type.php:236
+msgid "Hide this image"
+msgstr "Göm denna bild"
+
+#: includes/class-shipyard-instagram-post-type.php:238
+msgid "Check the box to hide this image from the frontend of the site"
+msgstr "Bocka för rutan för att gömma bilden på frontenden"
+
+#: shipyard-instagram.php:43
+msgid "Every Fifteen Minutes"
+msgstr "Varje femton minuter"
+
+#. Description of the plugin/theme
+msgid "Instagram Plugin for Barncancerfonden"
+msgstr "Instagram plugin till Barncancerfonden"
+
+#. Author of the plugin/theme
+msgid "The Shipyard crew"
+msgstr "The Shipyard Crew"
+
+#. Author URI of the plugin/theme
+msgid "https://theshipyard.se"
+msgstr "https://theshipyard.se/"
